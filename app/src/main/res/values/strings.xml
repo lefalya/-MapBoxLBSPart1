@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">MapBoxLBS</string>
-    <string name="mapbox_access_token">pk.eyJ1IjoibGVmYWx5YSIsImEiOiJjazE1eXVrZmgwemUyM2J0anpkcjA3em1uIn0.JpX7Mh8Ndm5vo5yQy6RSQQ</string>
+    <string name="mapbox_access_token">ACCESS_TOKEN</string>
 </resources>
